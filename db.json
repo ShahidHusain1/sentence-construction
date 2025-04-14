@@ -1,0 +1,74 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "sentence": "The dog __ in the __.",
+        "blanks": 2,
+        "options": ["barked", "yard", "ran", "tree"],
+        "correct": ["barked", "yard"]
+      },
+      {
+        "id": 2,
+        "sentence": "He __ a book on the __.",
+        "blanks": 2,
+        "options": ["reads", "shelf", "eats", "writes"],
+        "correct": ["reads", "shelf"]
+      },
+      {
+        "id": 3,
+        "sentence": "They __ to the __ to play.",
+        "blanks": 2,
+        "options": ["went", "park", "jumped", "bicycles"],
+        "correct": ["went", "park"]
+      },
+      {
+        "id": 4,
+        "sentence": "The baby __ in the __.",
+        "blanks": 2,
+        "options": ["cries", "crib", "sleeps", "hurts"],
+        "correct": ["cries", "crib"]
+      },
+      {
+        "id": 5,
+        "sentence": "She __ flowers in the __.",
+        "blanks": 2,
+        "options": ["planted", "garden", "cooked", "cake"],
+        "correct": ["planted", "garden"]
+      },
+      {
+        "id": 6,
+        "sentence": "I like to __ movies on the __.",
+        "blanks": 2,
+        "options": ["watch", "screen", "read", "phone"],
+        "correct": ["watch", "screen"]
+      },
+      {
+        "id": 7,
+        "sentence": "The teacher __ the __.",
+        "blanks": 2,
+        "options": ["explains", "homework", "draws", "paints"],
+        "correct": ["explains", "homework"]
+      },
+      {
+        "id": 8,
+        "sentence": "The children __ in the __.",
+        "blanks": 2,
+        "options": ["play", "sandbox", "sleep", "eat"],
+        "correct": ["play", "sandbox"]
+      },
+      {
+        "id": 9,
+        "sentence": "My sister __ cookies in the __.",
+        "blanks": 2,
+        "options": ["bakes", "oven", "eats", "makes"],
+        "correct": ["bakes", "oven"]
+      },
+      {
+        "id": 10,
+        "sentence": "He __ a ride on the __.",
+        "blanks": 2,
+        "options": ["takes", "bicycle", "drives", "bus"],
+        "correct": ["takes", "bicycle"]
+      }
+    ]
+  }
